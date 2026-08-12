@@ -38,3 +38,13 @@ And now, I’ll show you the **components I’m using for this robot**, and I mi
 7- 3.7V Lithium Polymer Battery 300mAh
 
 
+From a mechanical engineering perspective ⚙️, the robot has a **roughly square body** ◼️ with four straight legs 🦿. It has **4 DOF**, one for each leg.
+
+I chose **servo motors** 🔧 because they are suitable for the robot’s simple **forward and backward movement** ↔️.
+
+The required **torque** ⚙️ cannot be determined yet because the robot is not finished 🛠️.
+
+A possible limitation is that it cannot **detect obstacles** 🚧 because it has no sensors.
+
+I designed it as a **companion robot** 🤖 with no specific task.
+
