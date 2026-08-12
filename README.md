@@ -35,4 +35,6 @@ And now, I’ll show you the **components I’m using for this robot**, and I mi
 
 6- Power Bank Module
 
-7- 
+7- 3.7V Lithium Polymer Battery 300mAh
+
+
